@@ -4,15 +4,26 @@ using UnityEngine;
 
 public class ButtonController : MonoBehaviour
 {
-    // Start is called before the first frame update
+    SpriteRenderer sprite;
+    public Sprite[] images;
+
+    public KeyCode buttonKey;
+
     void Start()
     {
-        
+        sprite = GetComponent<SpriteRenderer>();
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
-        
+        if (Input.GetKeyDown(buttonKey))
+        {
+            sprite.sprite = images[1];
+        }
+
+        if (Input.GetKeyUp(buttonKey))
+        {
+            sprite.sprite = images[0];
+        }
     }
 }
