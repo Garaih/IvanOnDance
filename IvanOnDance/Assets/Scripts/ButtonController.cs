@@ -12,6 +12,7 @@ public class ButtonController : MonoBehaviour
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
+        sprite.sprite = images[0];
     }
     
     void Update()
