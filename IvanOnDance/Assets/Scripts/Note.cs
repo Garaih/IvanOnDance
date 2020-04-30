@@ -4,13 +4,17 @@ using UnityEngine;
 
 public class Note : MonoBehaviour
 {
+    public float hitHeight = -4f;
+
     public KeyCode buttonKey;
 
     bool canBePressed;
+    bool hasBeenPressed;
 
     void Start()
     {
         canBePressed = false;
+        hasBeenPressed = false;
     }
     
     void Update()
@@ -19,7 +23,13 @@ public class Note : MonoBehaviour
         {
             if (canBePressed)
             {
+                hasBeenPressed = true;
+
                 gameObject.SetActive(false);
+
+                float distance = Mathf.Abs(transform.position.y - hitHeight);
+
+                GameManager.Instance.NoteHit(distance, transform.position);
             }
         }
     }
@@ -36,7 +46,12 @@ public class Note : MonoBehaviour
     {
         if (other.tag == "Activator")
         {
-            canBePressed = false;
+            if (!hasBeenPressed)
+            {
+                canBePressed = false;
+
+                GameManager.Instance.NoteMiss(transform.position);
+            }
         }
     }
 }

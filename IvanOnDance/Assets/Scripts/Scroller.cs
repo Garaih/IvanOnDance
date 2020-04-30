@@ -6,7 +6,7 @@ public class Scroller : MonoBehaviour
 {
     public float tempo;
 
-    bool start;
+    public bool start;
 
 
     void Start()
@@ -19,10 +19,7 @@ public class Scroller : MonoBehaviour
     {
         if (!start)
         {
-            if (Input.anyKeyDown)
-            {
-                start = true;
-            }
+
         }
 
         else
