@@ -63,8 +63,8 @@ public class Animations : MonoBehaviour
         animAtaud.SetTrigger("Mix");
         animNiggas[0].SetTrigger("Mix");
         animNiggas[1].SetTrigger("Mix");
-        animNiggas[2].SetTrigger("Mix");
-        animNiggas[3].SetTrigger("Mix");
+        //animNiggas[2].SetTrigger("Mix");
+        //animNiggas[3].SetTrigger("Mix");
     }
 
     private void Update()
