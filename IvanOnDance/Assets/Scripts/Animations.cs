@@ -6,7 +6,7 @@ public class Animations : MonoBehaviour
 {
     public GameObject[] goNiggas;
     public GameObject goAtaud;
-    Animator[] animNiggas = new Animator[2];
+    Animator[] animNiggas = new Animator[4];
     Animator animAtaud;
 
 
@@ -63,27 +63,49 @@ public class Animations : MonoBehaviour
         animAtaud.SetTrigger("Mix");
         animNiggas[0].SetTrigger("Mix");
         animNiggas[1].SetTrigger("Mix");
-        //animNiggas[2].SetTrigger("Mix");
-        //animNiggas[3].SetTrigger("Mix");
+        animNiggas[2].SetTrigger("Mix");
+        animNiggas[3].SetTrigger("Mix");
+    }
+    public void Death()
+    {
+        animAtaud.SetTrigger("Death");
+        animNiggas[0].SetTrigger("Death");
+        animNiggas[1].SetTrigger("Death");
+        animNiggas[2].SetTrigger("Death");
+        animNiggas[3].SetTrigger("Death");
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.M))
+        /*
+        if (Input.GetKeyDown(KeyCode.D))
         {
             AnimAtaud();
         }
-        if (Input.GetKeyDown(KeyCode.N))
+        if (Input.GetKeyDown(KeyCode.Q))
         {
             AnimNegrata(0);
         }
-        if (Input.GetKeyDown(KeyCode.B))
+        if (Input.GetKeyDown(KeyCode.W))
         {
             AnimNegrata(1);
         }
-        if (Input.GetKeyDown(KeyCode.V))
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            AnimNegrata(2);
+        }
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            AnimNegrata(3);
+        }
+        if (Input.GetKeyDown(KeyCode.F))
         {
             Mix();
         }
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            Death();
+        }
+        */
     }
 }
