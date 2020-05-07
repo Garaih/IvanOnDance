@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AquiTrabajaSergio.unity
+    guid: 41eda18d8ce77d84b9a64b57c323a908
   m_configObjects: {}
