@@ -77,7 +77,7 @@ public class Animations : MonoBehaviour
 
     private void Update()
     {
-        /*
+        
         if (Input.GetKeyDown(KeyCode.D))
         {
             AnimAtaud();
@@ -106,6 +106,6 @@ public class Animations : MonoBehaviour
         {
             Death();
         }
-        */
+        
     }
 }
