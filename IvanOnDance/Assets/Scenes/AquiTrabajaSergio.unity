@@ -202,6 +202,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &6446516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -448,6 +449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &25466768
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -694,6 +696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &41949468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -940,6 +943,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &67114637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1186,6 +1190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &92105559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1432,6 +1437,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &127738308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1678,6 +1684,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &128915577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1924,6 +1931,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &136440549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2170,6 +2178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &137746922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2416,6 +2425,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &139227766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2662,6 +2672,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &142898266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3047,6 +3058,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!61 &160316229
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3207,6 +3219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &185841734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3453,6 +3466,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &191834438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3768,6 +3782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &223220764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4073,6 +4088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &240879772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4523,6 +4539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &305849443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4769,6 +4786,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &309222157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5015,6 +5033,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &317064725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5267,6 +5286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &339967932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5582,6 +5602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &415077169
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5828,6 +5849,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &419860911
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6315,6 +6337,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &440267326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6561,6 +6584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &458488150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6807,6 +6831,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &483518294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7053,6 +7078,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &523831007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7299,6 +7325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &526618449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7545,6 +7572,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &536056521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7930,6 +7958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!61 &541332835
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8037,6 +8066,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &577181855
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8283,6 +8313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &582713979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8529,6 +8560,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &594839438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8775,6 +8807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &599809363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9021,6 +9054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &603312189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9336,6 +9370,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &620095211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9582,6 +9617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &627636321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9828,6 +9864,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &629347971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10080,6 +10117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &686789793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10326,6 +10364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &694148844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10572,6 +10611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &704280841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10818,6 +10858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &731754853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11064,6 +11105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &757576170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11457,6 +11499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &771304782
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11703,6 +11746,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &799139689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11949,6 +11993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &813210843
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12195,6 +12240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &814933507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12441,6 +12487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &817851284
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12687,6 +12734,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &834716793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13072,6 +13120,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!61 &835482707
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13179,6 +13228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &837770370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13572,6 +13622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &842434429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13818,6 +13869,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &844073100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14064,6 +14116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &846960757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14310,6 +14363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &859986030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14562,6 +14616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &882990681
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14986,6 +15041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &931553813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15232,6 +15288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &938239156
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15478,6 +15535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &954763706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15724,6 +15782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &966769111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16117,6 +16176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1015715637
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16363,6 +16423,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1020091571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16756,6 +16817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1061012602
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17002,6 +17064,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1062164134
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17248,6 +17311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1063922385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17494,6 +17558,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1075899920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17740,6 +17805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1083816019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17986,6 +18052,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1092066696
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18378,6 +18445,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!61 &1108160697
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18486,6 +18554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1109308829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18732,6 +18801,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1117279103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19024,6 +19094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1134457610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19270,6 +19341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1152464566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19582,6 +19654,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1174409915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19967,6 +20040,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!61 &1188656970
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20074,6 +20148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1224039613
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20283,6 +20358,7 @@ MonoBehaviour:
   multiplier: 0
   multiplierTracker: 0
   multiplierThreshold: 5
+  maxMisses: 5
   scoreText: {fileID: 269797418}
   multText: {fileID: 903785611}
 --- !u!4 &1238831946
@@ -20380,6 +20456,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1252290813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20626,6 +20703,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1252661461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20872,6 +20950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1259109023
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21118,6 +21197,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1278352611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21364,6 +21444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1288838616
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21610,6 +21691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1292311029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21856,6 +21938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1301038455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22185,6 +22268,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1314142369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22431,6 +22515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1316545812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22677,6 +22762,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1318740046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22923,6 +23009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1340094726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23169,6 +23256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1341813058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23415,6 +23503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1345389747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23661,6 +23750,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1372474140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23907,6 +23997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1372809439
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24153,6 +24244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1377806908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24399,6 +24491,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1384571954
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24645,6 +24738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1386203521
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25034,6 +25128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1423288667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25280,6 +25375,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1444319931
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25526,6 +25622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1467389864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25772,6 +25869,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1472220678
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26018,6 +26116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1478047519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26264,6 +26363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1487195936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26510,6 +26610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1492264353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26756,6 +26857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1508290270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27002,6 +27104,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1515116234
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27248,6 +27351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1531025777
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27494,6 +27598,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1536067039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27740,6 +27845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1605505936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27986,6 +28092,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1611139593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28232,6 +28339,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1614366763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28529,6 +28637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1648474249
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28849,6 +28958,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1662033242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29158,6 +29268,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1676308633
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29404,6 +29515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1677066917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29650,6 +29762,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1678525671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29896,6 +30009,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1698978223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30142,6 +30256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1727419265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30442,6 +30557,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &1739781683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30688,6 +30804,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1758401882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30934,6 +31051,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1760688194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31180,6 +31298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1763386682
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31426,6 +31545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1786570823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31672,6 +31792,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1817407968
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31918,6 +32039,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1818787725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32164,6 +32286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1819028822
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32510,6 +32633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1824824025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32756,6 +32880,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 117
+  keyString: U
 --- !u!114 &1831169209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33149,6 +33274,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &1870794323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33541,6 +33667,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!61 &1913001078
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33655,6 +33782,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1922049540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33901,6 +34029,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &1933613085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34180,6 +34309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &1943675663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34426,6 +34556,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &1945751880
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34672,6 +34803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 119
+  keyString: W
 --- !u!114 &2003515412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34918,6 +35050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &2017650323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35164,6 +35297,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &2036099604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35443,6 +35577,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &2087053357
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35689,6 +35824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &2105971669
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35935,6 +36071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 111
+  keyString: O
 --- !u!114 &2126592786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36181,6 +36318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &2127816866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36427,6 +36565,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 101
+  keyString: E
 --- !u!114 &2128327034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36673,6 +36812,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 113
+  keyString: Q
 --- !u!114 &2144692960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36919,6 +37059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitHeight: -3.3
   buttonKey: 105
+  keyString: I
 --- !u!114 &2146741039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37221,6 +37362,11 @@ PrefabInstance:
       propertyPath: hitHeight
       value: -3.3
       objectReference: {fileID: 0}
+    - target: {fileID: 2367224934792525453, guid: 0b92772ed6e13c242b7e91a40170364f,
+        type: 3}
+      propertyPath: keyString
+      value: Q
+      objectReference: {fileID: 0}
     - target: {fileID: 2367224934792525454, guid: 0b92772ed6e13c242b7e91a40170364f,
         type: 3}
       propertyPath: m_Offset.y
@@ -37269,6 +37415,11 @@ PrefabInstance:
         type: 3}
       propertyPath: hitHeight
       value: -3.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3546368047224085476, guid: f128a8757537e60499f07ed56c66338a,
+        type: 3}
+      propertyPath: keyString
+      value: W
       objectReference: {fileID: 0}
     - target: {fileID: 3546368047224085477, guid: f128a8757537e60499f07ed56c66338a,
         type: 3}

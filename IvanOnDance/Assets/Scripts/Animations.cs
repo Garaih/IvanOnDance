@@ -4,12 +4,19 @@ using UnityEngine;
 
 public class Animations : MonoBehaviour
 {
+    public static Animations Instance;
+
     public GameObject[] goNiggas;
     public GameObject goAtaud;
     Animator[] animNiggas = new Animator[4];
     Animator animAtaud;
 
 
+
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     void Start()
     {
@@ -78,7 +85,7 @@ public class Animations : MonoBehaviour
     private void Update()
     {
         
-        if (Input.GetKeyDown(KeyCode.D))
+        /*if (Input.GetKeyDown(KeyCode.D))
         {
             AnimAtaud();
         }
@@ -105,7 +112,7 @@ public class Animations : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.G))
         {
             Death();
-        }
+        }*/
         
     }
 }

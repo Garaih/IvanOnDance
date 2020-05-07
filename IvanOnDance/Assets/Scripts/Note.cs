@@ -7,6 +7,7 @@ public class Note : MonoBehaviour
     public float hitHeight = -4f;
 
     public KeyCode buttonKey;
+    public string keyString;
 
     bool canBePressed;
     bool hasBeenPressed;
@@ -29,7 +30,7 @@ public class Note : MonoBehaviour
 
                 float distance = Mathf.Abs(transform.position.y - hitHeight);
 
-                GameManager.Instance.NoteHit(distance, transform.position);
+                GameManager.Instance.NoteHit(distance, transform.position, keyString);
             }
         }
     }

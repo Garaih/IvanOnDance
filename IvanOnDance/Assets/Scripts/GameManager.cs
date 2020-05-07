@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -56,10 +57,53 @@ public class GameManager : MonoBehaviour
                 music.Play();
             }
         }
+
+        if (misses > maxMisses)
+        {
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 
-    public void NoteHit(float value, Vector2 pos)
+    public void NoteHit(float value, Vector2 pos, string key)
     {
+        if (key == "Q")
+        {
+            Animations.Instance.AnimNegrata(0);
+        }
+
+        else if (key == "W")
+        {
+            Animations.Instance.AnimNegrata(1);
+        }
+
+        else if (key == "E")
+        {
+            Animations.Instance.AnimNegrata(2);
+        }
+
+        else if (key == "U")
+        {
+            Animations.Instance.AnimNegrata(3);
+        }
+
+        else if (key == "I")
+        {
+            Animations.Instance.AnimAtaud();
+        }
+
+        else if (key == "O")
+        {
+            Animations.Instance.Mix();
+        }
+
         multiplierTracker++;
 
         if (multiplierTracker % multiplierThreshold == 0)
@@ -115,7 +159,9 @@ public class GameManager : MonoBehaviour
 
         if (misses > maxMisses)
         {
-
+            Animations.Instance.Death();
+            music.Stop();
+            scr.enabled = false;
         }
     }
 }
