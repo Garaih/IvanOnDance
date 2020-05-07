@@ -23,6 +23,9 @@ public class GameManager : MonoBehaviour
     public int multiplierTracker;
     public int multiplierThreshold;
 
+    public int maxMisses;
+    int misses;
+
     public Text scoreText;
     public Text multText;
 
@@ -36,6 +39,7 @@ public class GameManager : MonoBehaviour
         currentScore = 0;
         multiplier = 1;
         multiplierTracker = 0;
+        misses = 0;
         scoreText.text = "Score: " + currentScore;
         multText.text = "Multiplier: x" + multiplier;
     }
@@ -106,5 +110,12 @@ public class GameManager : MonoBehaviour
         multiplierTracker = 0;
 
         multText.text = "Multiplier: x" + multiplier;
+
+        misses++;
+
+        if (misses > maxMisses)
+        {
+
+        }
     }
 }
