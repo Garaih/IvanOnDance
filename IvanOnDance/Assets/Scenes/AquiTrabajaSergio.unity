@@ -28050,7 +28050,7 @@ MonoBehaviour:
   multiplier: 0
   multiplierTracker: 0
   multiplierThreshold: 5
-  maxMisses: 500
+  maxMisses: 10
   scoreText: {fileID: 269797418}
   multText: {fileID: 903785611}
 --- !u!4 &1238831946
