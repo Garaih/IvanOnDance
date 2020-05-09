@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: "Assets/Scenes/LaHabitaci\xF3nDeLaMadreDeJuan.unity"
+    guid: 40326028e31d1a044a72a252fff6385f
+  - enabled: 1
     path: Assets/Scenes/AquiTrabajaSergio.unity
     guid: 41eda18d8ce77d84b9a64b57c323a908
   m_configObjects: {}
