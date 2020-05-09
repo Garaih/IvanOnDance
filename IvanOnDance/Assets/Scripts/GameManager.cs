@@ -58,7 +58,7 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        if (misses > maxMisses)
+        if (misses >= maxMisses)
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
